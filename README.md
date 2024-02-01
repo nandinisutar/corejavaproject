@@ -1,2 +1,2 @@
 # corejavaproject
-Librarymanagementsystem
+LibraryManagementSystem
